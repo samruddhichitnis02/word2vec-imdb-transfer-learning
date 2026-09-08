@@ -1,0 +1,2 @@
+dataset,num_reviews,total_tokens,unique_words,google_model_vector_size,google_model_vocab_size,imdb_vocab_size,shared_vocab_size,dataset_load_time_seconds,tokenization_time_seconds,google_model_load_time_seconds,fine_tuning_time_seconds
+IMDB,25000,5653194,72927,300,3000000,28690,24620,2.8948168999999995,22.057495700000004,111.5370829,1123.2612465
